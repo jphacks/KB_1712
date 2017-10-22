@@ -1,6 +1,6 @@
 # No Need for Receipt
 
-![title]("presentation/nnfr.001.jpeg")
+![title](https://github.com/jphacks/KB_1712/blob/master/presentation/nnfr.001.jpeg)
 
 ## 製品概要
 ### Receipt Tech
