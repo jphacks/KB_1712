@@ -52,11 +52,11 @@
 * Numpy, scikit-learn
 
 #### デバイス
-*　RaspberryPi 3
-*　rduino UNO
-*　サーボモータ
-*　DCモータ
-*　広角カメラ
+* RaspberryPi3
+* Arduino UNO
+* サーボモータ
+* DCモータ
+* 広角カメラ
 
 ### 独自開発技術（Hack Dayで開発したもの）
 #### 2日間に開発した独自の機能・技術
