@@ -1,6 +1,6 @@
 # No Need for Receipt
 
-<img src="https://github.com/jphacks/KB_1712/blob/master/presentation/origin.jpeg" align="center" width="48">
+<img src="https://github.com/jphacks/KB_1712/blob/master/presentation/origin.jpeg" align="center" width="640">
 
 <!-- ![title](https://github.com/jphacks/KB_1712/blob/master/presentation/origin.jpeg) -->
 
@@ -8,22 +8,28 @@
 ### Receipt Tech
 
 ### 背景（製品開発のきっかけ、課題等）
-![background](https://github.com/jphacks/KB_1712/blob/master/presentation/nnfr.001.jpeg)
+<img src="https://github.com/jphacks/KB_1712/blob/master/presentation/nnfr.001.jpeg" align="center" width="640">
+<!-- ![background](https://github.com/jphacks/KB_1712/blob/master/presentation/nnfr.001.jpeg) -->
 学生（や社会人）はお金の余裕がない．自分のお財布の紐をしっかり締め，有意義にお金を使いたい．
 現状，人は自分のお金の支出をきちんと管理できていない
 家計簿を付けることはできるが，いちいちレシートを貯めてメモしたくない
 レシートを自動で認識し，スマートフォンアプリで管理できるシステムを開発
 
 ### 製品説明（具体的な製品の説明）
-![detail1](https://github.com/jphacks/KB_1712/blob/master/presentation/nnfr.002.jpeg)
+<img src="https://github.com/jphacks/KB_1712/blob/master/presentation/nnfr.002.jpeg" align="center" width="640">
+<!-- ![detail1](https://github.com/jphacks/KB_1712/blob/master/presentation/nnfr.002.jpeg) -->
 デバイスにレシートを入れると、デバイスが内蔵したカメラからレシートを撮影し、レシートを保管
-![detail2](https://github.com/jphacks/KB_1712/blob/master/presentation/nnfr.003.jpeg)
+<img src="https://github.com/jphacks/KB_1712/blob/master/presentation/nnfr.003.jpeg" align="center" width="640">
+<!-- ![detail2](https://github.com/jphacks/KB_1712/blob/master/presentation/nnfr.003.jpeg) -->
 撮影したレシートの写真から、含まれている情報を取得
-![detail3](https://github.com/jphacks/KB_1712/blob/master/presentation/nnfr.004.jpeg)
+<img src="https://github.com/jphacks/KB_1712/blob/master/presentation/nnfr.004.jpeg" align="center" width="640">
+<!-- ![detail3](https://github.com/jphacks/KB_1712/blob/master/presentation/nnfr.004.jpeg) -->
 取得した情報はデーテベース格納される
-![detail4](https://github.com/jphacks/KB_1712/blob/master/presentation/nnfr.005.jpeg)
+<img src="https://github.com/jphacks/KB_1712/blob/master/presentation/nnfr.005.jpeg" align="center" width="640">
+<!-- ![detail4](https://github.com/jphacks/KB_1712/blob/master/presentation/nnfr.005.jpeg) -->
 得られたデータベースの情報は、企業側や利用者側に関わらず、様々な形で再利用が可能
-![detail5](https://github.com/jphacks/KB_1712/blob/master/presentation/nnfr.006.jpeg)
+<img src="https://github.com/jphacks/KB_1712/blob/master/presentation/nnfr.006.jpeg" align="center" width="640">
+<!-- ![detail5](https://github.com/jphacks/KB_1712/blob/master/presentation/nnfr.006.jpeg) -->
 レシートから得られる情報の例
 
 ### 特長
