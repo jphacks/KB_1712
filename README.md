@@ -1,6 +1,8 @@
 # No Need for Receipt
 
-![title](https://github.com/jphacks/KB_1712/blob/master/presentation/origin.jpeg)
+<img src="https://github.com/jphacks/KB_1712/blob/master/presentation/origin.jpeg" align="center" width="48">
+
+<!-- ![title](https://github.com/jphacks/KB_1712/blob/master/presentation/origin.jpeg) -->
 
 ## 製品概要
 ### Receipt Tech
